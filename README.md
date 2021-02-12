@@ -39,7 +39,7 @@
 
 ### Evaluation of the Proposed Solution ###
 
-
+<a href="https://youtu.be/F7M6QLyZDWU" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier/blob/main/resources/Tooth%20Paste%20Classification.png"/></a> 
 
 - - - -
 
