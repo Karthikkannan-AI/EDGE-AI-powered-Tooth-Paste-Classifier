@@ -35,6 +35,8 @@
 
 <img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier/blob/main/resources/Tooth%20Paste%20Classifier.png">
 
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier/blob/main/resources/Tooth%20Paste%20Classification%20Workflow.png">
+
 - - - -
 
 ### Evaluation of the Proposed Solution ###
