@@ -37,7 +37,7 @@ Industry 4.0 is about creating a ‘smart factory’, a manufacturing site that 
 
 <img src="">
 
-### Application Usecases ###
+### Application Usecases of Computer Vision powered by EDGE AI ###
 
 | Application | Overview |
 | :------------- | :------------- |
