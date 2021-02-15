@@ -2,11 +2,11 @@
 
 ## Table of Contents ##
 
-* [About the Project]()
-  * [AI on the Edge]()
-  * [Application Usecases]()
+* [About the Project](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier#about-the-project)
+  * [AI on the Edge](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier#ai-on-the-edge)
+  * [Application Usecases](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier#application-usecases)
 * [Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier/blob/main/README.md#solution)
-  * [Data Collection]()
+  * [Data Collection](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier#data-collection)
   * [Solution Workflow](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier/blob/main/README.md#solution-workflow)
   * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier/blob/main/README.md#evaluation-of-the-proposed-solution)
 * [Conclusion](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier/blob/main/README.md#conclusion)
@@ -74,7 +74,8 @@ We have taken thousands of Images of the Tooth Paste in different lighting condi
 
 ## Conclusion ##
 
-
+This project is purely done for Demonstration purposes.
+We can help bring Computer Vision powered by EDGE AI solutions to the Factory floor.
 
 - - - -
 
