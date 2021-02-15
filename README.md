@@ -1,10 +1,10 @@
-# EDGE-AI-powered-Tooth-Paste-Classifier
+https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier#application-usecases-of-computer-vision-powered-by-edge-ai# EDGE-AI-powered-Tooth-Paste-Classifier
 
 ## Table of Contents ##
 
 * [About the Project](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier#about-the-project)
   * [AI on the Edge](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier#ai-on-the-edge)
-  * [Application Usecases](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier#application-usecases)
+  * [Application Usecases](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier#application-usecases-of-computer-vision-powered-by-edge-ai)
 * [Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier/blob/main/README.md#solution)
   * [Data Collection](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier#data-collection)
   * [Solution Workflow](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier/blob/main/README.md#solution-workflow)
