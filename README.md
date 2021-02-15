@@ -1,3 +1,5 @@
+# EDGE AI powered Tooth Paste Classifier # 
+
 ## Table of Contents ##
 
 * [About the Project](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier#about-the-project)
