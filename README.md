@@ -68,7 +68,7 @@ We have taken thousands of Images of the Tooth Paste in different lighting condi
 
 ### Evaluation of the Proposed Solution ###
 
-<a href="https://youtu.be/8AUUlWraaoA" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier/blob/main/resources/Tooth%20Paste%20Classification.png"/></a> 
+<a href="https://youtu.be/t_WH3Yc25jw" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tooth-Paste-Classifier/blob/main/resources/Tooth%20Paste%20Classification.png"/></a> 
 
 - - - -
 
